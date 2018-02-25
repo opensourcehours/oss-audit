@@ -3,9 +3,11 @@
 A resource to help people find open source software projects that are beginner-friendly and committed to diversity and inclusion.
 
 ## Instructions
+Fork this repository and commit to your forked version, then make a pull request to this repository.
+
 Create a Markdown file in the projects directory. Follow the example.md as an example for the template.
 
-## Questions
+## Rationale behind template
 Here are some initial questions for investigating an open source project. Remember: your time and labor is valuable! Give it to an open source project community that treats its contributors well.
 
 - Where do people communicate? Slack? GitHub? IRC? Mailing list? Forum?
