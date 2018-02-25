@@ -11,5 +11,5 @@
 * Issue labeling: [...]
 * Pull request process: [...]
 * Testing: [...]
-* Continiuous integration: [...]
+* Continuous integration: [...]
 * Style guides: [...]
