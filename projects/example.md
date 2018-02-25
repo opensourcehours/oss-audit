@@ -1,5 +1,7 @@
 # Example Project
 
+Short description of the project here, including the link to the repo.
+
 ## Code of conduct
 ## Communication tools
 ## Introduction documentation
@@ -11,3 +13,4 @@
 ## Testing best practices
 ## Continuous integration
 ## Style guides
+## Additional comments
