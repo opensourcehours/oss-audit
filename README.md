@@ -23,7 +23,7 @@ Here are some initial questions for investigating an open source project. Rememb
 - How to submit issues?
 - What labels are used for issues?
 - Git workflow? How to get maintainers attention for PR review?
-- documentation?
+- Documentation?
 
 - Environment setup docs?
 - Tests? Do they pass when you run them?
